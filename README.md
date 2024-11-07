@@ -14,7 +14,7 @@ Analysis: Gathering and analyzing requirements to ensure the software meets user
 Design: Creating architectures and detailed designs for the software solution.
 Implementation: Coding and integrating the software components.
 Testing: Validating that the software works as intended and is free of defects.
-Deployment: Releasing the software to users.
+Deployment: Releasing the software to users. 
 Maintenance: Performing ongoing updates and fixes to keep the software functional and relevant.
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall: A linear and sequential approach where each phase must be completed before the next begins. It’s suitable for projects with well-defined requirements, such as building a house.
