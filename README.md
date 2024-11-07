@@ -13,10 +13,8 @@ Identify and describe at least three key milestones in the evolution of software
 1970s-1980s: Structured Programming: The development of structured programming languages like C and PASCAL and methodologies like the Waterfall model laid the foundation for more systematic software development processes.
 
 1990s-Present: Agile and DevOps: The introduction of Agile methodologies and later the DevOps movement revolutionized software engineering by promoting iterative development, collaboration, and continuous delivery.
-
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning: Defining the scope, objectives, and resources for the project.
-
 Analysis: Gathering and analyzing requirements to ensure the software meets user needs.
 
 Design: Creating architectures and detailed designs for the software solution.
